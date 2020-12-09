@@ -8,6 +8,5 @@ public class FactoryDemaPattern {
 
         Phone myPhone=phoneFactory.getPhone("low price");
         myPhone.showSpec();
-
     }
 }
